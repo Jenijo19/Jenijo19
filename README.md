@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋
+My name is Jothijenifer. You can call me Jeni. I am in the process of becoming a Data Analyst
 
-<!--
-**Jenijo19/Jenijo19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Somethings about me
+- 💼 Have an International Relations background and  4 years of experience working as a Analyst before realizing an interest in Data 
+- ✨ Start the journey to Data Analysis since 2024.
+- 🔥 Love working and figuring out the insights from numbers
+- 🌐 Actively seeking opportunities to apply my analytical skills and contribute to real-world projects.
 
-Here are some ideas to get you started:
+### What I'm Learning
+- 📈 Currently learning SQL, PowerBI, Tableau, Python (Numpy, Panda's, Matplotlib & Seaborn)
+- 📚 Always exploring new techniques and best practices in data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's Connect
+- 📫 Feel free to connect with me via [Linkedin](www.linkedin.com/in/jenijo19)
+- Email: jothijenifer1903@gmail.com 
