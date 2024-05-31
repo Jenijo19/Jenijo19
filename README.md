@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Jothijenifer. You can call me Jeni. I am in the process of becoming a Data Analyst
 
-### Somethings about me
+### Something about me
 - 💼 Have an International Relations background and  4 years of experience working as a Analyst before realizing an interest in Data 
 - ✨ Start the journey to Data Analysis since 2024.
 - 🔥 Love working and figuring out the insights from numbers
